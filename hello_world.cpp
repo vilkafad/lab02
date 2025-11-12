@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-// Main function that greets user
+// Основная функция, которая приветствует пользователя!
 int main() {
     std::string name;
     std::cout << "Enter your name: ";
